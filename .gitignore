@@ -1,0 +1,8 @@
+.venv/
+.idea/
+.vscode/
+**__pycache__/
+**.pt
+**.png
+**.jpg
+**.fits
