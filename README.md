@@ -19,4 +19,5 @@
 
 ### Источники данных
 1. https://www.lmsal.com/get_aia_data/
-2. http://jsoc.stanford.edu/ajax/lookdata.html
+2. https://jsoc1.stanford.edu/data/aia/images/
+3. http://jsoc.stanford.edu/ajax/lookdata.html
